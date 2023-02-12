@@ -1,0 +1,42 @@
+***********************************************************************
+Mitotic outcomes and errors in fibrous environments
+***********************************************************************
+*   School of Mathematical and Computational Sciences, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700032, India
+*   Department of Mechanical Engineering, Virginia Tech, Blacksburg, VA 24061
+*   Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA 24061
+*   Department of Chemical and Biological Physics, Weizmann Institute of Science, Rehovot 7610001, Israel
+*   Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, CO 80523
+*   (c) 2023
+*  
+*   DESIGN & DEVELOPMENTS
+*   
+*   Apurba Sarkar, Raja Paul
+*   School of Mathematical and Computational Sciences, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700032, India
+*
+*   Aniket Jana, Haonan Zhang, Atharva Agashe, Amrinder S. Nain
+*   Department of Mechanical Engineering, Virginia Tech, Blacksburg, VA 24061
+*   
+*   Ji Wang, Amrinder S. Nain
+*   Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA 24061
+*
+*   Nir S. Gov
+*   Department of Chemical and Biological Physics, Weizmann Institute of Science, Rehovot 7610001, Israel
+
+*   Jennifer G DeLuca
+*   Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, CO 80523
+* *******************************************************************
+
+OS
+
+Even though the code is developed and run under Linux distro, there is nothing 'Linux' specific in the code. It should be able to run smoothly in other OSs as well. 
+
+
+PREREQUISITES
+
+* Standard C++ compiler
+
+*Commands to compile the program
+
+1. g++ MitoticOutcomesAndErrors.c
+
+2. ./a.out 
